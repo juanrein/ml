@@ -1,0 +1,4 @@
+__pycache__/
+environment/
+.vscode/
+drawmath/src/testImages/
